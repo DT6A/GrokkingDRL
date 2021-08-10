@@ -7,3 +7,6 @@
 2. Deep Q-network (DQN). [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 3. Double Deep Q-network (DDQN). [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
 4. Dueling DDQN. [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
+##Policy-gradient
+1. REINFORCE
+2. Vanilla policy gradient (VPG)
